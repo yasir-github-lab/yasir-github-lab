@@ -52,7 +52,7 @@
 ### 📺 Experience
 
 - UI Development Using HTML, CSS, JQuery, JavaScript, SCSS, Bootstrap, Tailwind etc.
-- WordPress Design and Development Custom Field, Gutenberg Editor,Visual composer, Wp-Bakery, Elementor Pro etc.
+- WordPress Design and Development Custom Field, Gutenberg Editor, Wp-Bakery, Elementor Pro etc.
 - Graphic and User Interface Design Using PSD, Figma, Sketch etc.
 - Back-end Development Using React, WordPress, Drupal, PHP, HTML5, JavaScript, CSS3, jQuery, JSON, Ajax and JSON etc.
 - Database Development
