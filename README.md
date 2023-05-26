@@ -45,8 +45,6 @@
 [![Linkedin](https://img.icons8.com/?size=50&id=13930&format=png "Linkedin")](https://www.linkedin.com/in/muhammad-yasir-hussain-6b42a136)
 [![GitHub](https://img.icons8.com/?size=48&id=12599&format=png "GitHub")](https://github.com/yasir-github-lab/yasir-github-lab)
 
-
-<br />
 <br />
 
 ---
