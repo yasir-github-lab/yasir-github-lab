@@ -42,9 +42,8 @@
 
 ### Connect with me:
 
-[![website](https://img.icons8.com/?size=512&id=13930&format=png,"Linkedin")](https://www.linkedin.com/in/muhammad-yasir-hussain-6b42a136)
-[![website](https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png,"GitHub")](https://github.com/yasir-github-lab/yasir-github-lab)
-
+[![Linkedin](https://img.icons8.com/?size=50&id=13930&format=png "Linkedin")](https://www.linkedin.com/in/muhammad-yasir-hussain-6b42a136)
+[![GitHub](https://img.icons8.com/?size=48&id=12599&format=png "GitHub")](https://github.com/yasir-github-lab/yasir-github-lab)
 
 
 <br />
