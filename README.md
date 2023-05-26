@@ -26,10 +26,13 @@
 <img align="left" title="CSS3" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" title="Sass" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" title="JavaScript" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" title="Next Js" alt="Next Js" width="30px" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" style="padding-right:10px;" />
 <img align="left" title="PHP" alt="PHP" width="35px" src="https://img.icons8.com/?size=512&id=fAMVO_fuoOuC&format=png" style="padding-right:10px;" />
 <img align="left" title="Drupal" alt="Drupal" width="30px" src="https://img.icons8.com/?size=512&id=21279&format=png" style="padding-right:10px;" />
 <img align="left" title="Wordpress" alt="Wordpress" width="30px" src="https://img.icons8.com/?size=512&id=v9uZbuVoWleB&format=png" style="padding-right:10px;" />
 <img align="left" title="React" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" title="Bootstrap" alt="Bootstrap" width="30px" src="https://img.icons8.com/?size=512&id=84710&format=png" style="padding-right:10px;" />
+<img align="left" title="Tailwind" alt="Tailwind" width="30px" src="https://img.icons8.com/?size=512&id=x7XMNGh2vdqA&format=png" style="padding-right:10px;" />
 <img align="left" title="MongoDB" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" title="MySQL" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" title="GitHub" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
@@ -39,20 +42,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](https://img.icons8.com/?size=512&id=13930&format=png,"Linkedin")](https://www.linkedin.com/in/muhammad-yasir-hussain-6b42a136)
+[![website](https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png,"GitHub")](https://github.com/yasir-github-lab/yasir-github-lab)
 
 
 
